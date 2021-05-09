@@ -1,0 +1,41 @@
+#img-div{
+    display: flex;
+    border: 2px solid gray;
+    align-items: center;
+    justify-content: center;
+}
+#image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#img-caption{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+}
+
+#img-caption{
+    color: grey;
+}
+
+#title{
+    color: maroon;
+    text-align: center;
+}
+
+#tribute-info{
+    background-color: lightgray;
+    padding-left: 2px;
+}
+p{
+    padding-left: 15px;
+}
+#tribute-link{
+    padding-left: 15px;
+}
+h4{
+    padding-left: 15px;
+}
